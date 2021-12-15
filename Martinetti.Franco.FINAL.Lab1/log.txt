@@ -1,0 +1,22 @@
+09/07/2020;09:33;ServicioClientes.exe;5;Disk faliure
+09/07/2020;09:38;ScriptCache.exe;9;Out of memory
+10/07/2020;10:39;ServiceCleanDisk.exe;6;Segmentation fault
+06/08/2020;11:13;ScriptCache.exe;2;Connection lost
+07/08/2020;14:10;ServiceCleanDisk.exe;1;Connection timeout
+08/08/2020;16:15;ServiceNotifications.exe;1;Connection timeout
+08/08/2020;16:19;ServiceNotifications.exe;8;Email failed
+09/08/2020;21:25;ServiceNotifications.exe;7;Segmentation fault
+11/08/2020;09:33;ServicioClientes.exe;3;Out of memory
+11/08/2020;09:56;ServiceNotifications.exe;3;Log error
+11/08/2020;12:44;ServicioClientes.exe;4;Stack overflow
+12/08/2020;18:14;ScriptCache.exe;2;Connection lost
+12/08/2020;19:19;ServiceNotifications.exe;8;Email failed
+13/08/2020;14:15;ServiceNotifications.exe;1;Connection timeout
+14/08/2020;09:33;ServicioClientes.exe;3;Out of memory
+15/08/2020;09:46;ServicioClientes.exe;5;Disk faliure
+16/08/2020;21:25;ServiceNotifications.exe;7;Segmentation fault
+17/07/2020;09:38;ScriptCache.exe;9;Out of memory
+17/08/2020;18:14;ScriptCache.exe;7;Connection lost
+17/08/2020;19:27;ServiceCleanDisk.exe;1;Connection timeout
+18/08/2020;20:46;ServicioClientes.exe;5;Disk faliure
+18/08/2020;21:25;ServiceNotifications.exe;3;Log error

@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1639574505 source:c:\users\franco\documents\franco\programacion\utn\prog - lab i\parciales\martinetti.franco.final.lab1\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"LinkedList.h"
+	"Controller.h"
+	"parser.h"
+	"logs.h"
+	"utnInputs.h"
+
+1638480272 c:\users\franco\documents\franco\programacion\utn\prog - lab i\parciales\martinetti.franco.final.lab1\linkedlist.h
+
+1639573454 c:\users\franco\documents\franco\programacion\utn\prog - lab i\parciales\martinetti.franco.final.lab1\controller.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1639019323 c:\users\franco\documents\franco\programacion\utn\prog - lab i\parciales\martinetti.franco.final.lab1\parser.h
+
+1639573757 c:\users\franco\documents\franco\programacion\utn\prog - lab i\parciales\martinetti.franco.final.lab1\logs.h
+
+1639028666 c:\users\franco\documents\franco\programacion\utn\prog - lab i\parciales\martinetti.franco.final.lab1\utninputs.h
+
+1639021338 source:c:\users\franco\documents\franco\programacion\utn\prog - lab i\parciales\martinetti.franco.final.lab1\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1639574319 source:c:\users\franco\documents\franco\programacion\utn\prog - lab i\parciales\martinetti.franco.final.lab1\logs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"logs.h"
+	"utnInputs.h"
+
+1639573731 source:c:\users\franco\documents\franco\programacion\utn\prog - lab i\parciales\martinetti.franco.final.lab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+
+1639574463 source:c:\users\franco\documents\franco\programacion\utn\prog - lab i\parciales\martinetti.franco.final.lab1\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"logs.h"
+
+1639020036 source:c:\users\franco\documents\franco\programacion\utn\prog - lab i\parciales\martinetti.franco.final.lab1\utninputs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+
